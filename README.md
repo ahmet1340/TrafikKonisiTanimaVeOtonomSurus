@@ -10,9 +10,6 @@ Trafik konilerinden oluşan yolu trafik konilerini tespit ederek takip eden bir 
 
 Proje, görüntü işleme ve makine öğrenimi tekniklerini kullanarak ekrandan gelen görüntü verilerini analiz eder ve yol üzerindeki konilerin konumunu belirler. Ardından, araç bu verilere göre hareket eder ve konilere çarpmadan yol içerisinde kalır.
 
-## Kullanım
-
-Projeyi çalıştırmak için Unity ortamına ihtiyaç duyulur. Proje dosyalarını Unity'e yükleyerek çalıştırabilirsiniz.
 
 ## YouTube Tanıtımı
 
