@@ -17,3 +17,5 @@ Proje, görüntü işleme ve makine öğrenimi tekniklerini kullanarak ekrandan 
 
 Yukarıdaki bağlantıya tıklayarak projenin YouTube üzerindeki tanıtım videosunu izleyebilirsiniz.
 
+
+Oluşturulma Tarihi: Mart 2020
